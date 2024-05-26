@@ -33,6 +33,7 @@ To get started with [Project Name], follow these steps:
     DBPORT=18455
     DBPASS=AVNS__O6fIEZZBOo7e4nRiT9
     ```
+      Note: These keys provided above are not sensitive information and are used for configuration purposes.
 
 5. **Start the development server**:
     ```bash
