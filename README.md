@@ -1,27 +1,23 @@
-# Project Name
+# Form Api
 
 ## Description
-[Project Name] is a [brief description of your project]. 
+All Api for Form  . 
 
 ## Installation
-To get started with [Project Name], follow these steps:
+To get started with Form Api, follow these steps:
 
 1. **Clone the repository**: 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/sahil2k19/apiform.git
     ```
 
-2. **Navigate to the project directory**:
-    ```bash
-    cd <project_directory>
-    ```
 
-3. **Install dependencies**:
+2. **Install dependencies**:
     ```bash
     npm install
     ```
 
-4. **Set up environment variables**:
+3. **Set up environment variables**:
     - Fill in the necessary environment variables in the `.env` file. Below are the environment variables needed:
 
     ```plaintext
@@ -34,7 +30,7 @@ To get started with [Project Name], follow these steps:
     ```
       Note: These keys provided above are not sensitive information and are used for configuration purposes.
 
-5. **Start the development server**:
+4. **Start the development server**:
     ```bash
     npm start
     ```
