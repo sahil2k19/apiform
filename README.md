@@ -23,22 +23,20 @@ To get started with [Project Name], follow these steps:
 
 4. **Set up environment variables**:
     - Copy `.env.example` to `.env`.
-    - Fill in the necessary environment variables in the `.env` file.
+    - Fill in the necessary environment variables in the `.env` file. Below are the environment variables needed:
+
+    ```plaintext
+    PORT=2100
+    DBHOST=mysql-22c2016f-sahilgagant20champ-919f.c.aivencloud.com
+    DBNAME=mysql_system_test
+    DBUSER=avnadmin
+    DBPORT=18455
+    DBPASS=AVNS__O6fIEZZBOo7e4nRiT9
+    ```
 
 5. **Start the development server**:
     ```bash
     npm start
     ```
 
-## Usage
-[Provide instructions or examples on how to use your project once it's installed.]
-
-## Contributing
-[Explain how others can contribute to your project. Include guidelines for submitting pull requests, reporting bugs, or suggesting improvements.]
-
-## License
-[Include information about the license under which your project is distributed. For example, if it's open source, mention the type of license (MIT, Apache, etc.)]
-
-## Acknowledgements
-[Optionally, acknowledge people, organizations, or resources that have helped in the development of your project.]
 
