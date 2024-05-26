@@ -22,7 +22,6 @@ To get started with [Project Name], follow these steps:
     ```
 
 4. **Set up environment variables**:
-    - Copy `.env.example` to `.env`.
     - Fill in the necessary environment variables in the `.env` file. Below are the environment variables needed:
 
     ```plaintext
